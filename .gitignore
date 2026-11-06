@@ -1,0 +1,11 @@
+node_modules/
+dist/
+runtime-data/
+*.tsbuildinfo
+.vercel/
+deploy-files.json
+
+.env
+.env.*
+!.env.example
+
